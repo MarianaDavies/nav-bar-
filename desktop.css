@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+} 
+
+header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 100%;
+    max-width: 1500px;
+    margin: auto;
+    height: 150px;
+    box-shadow: 5px 5px 120px rgb(73, 15, 120);
+}
+img {
+   width: 10%;
+}
+
+h1 {
+    width: 15%;
+    text-align: center;
+}
+
+span {
+    width: 15%;
+    text-align: center;
+}
+
+nav {
+    width: 48%;
+    background-color: #ffffff;
+    margin-left: 50px;
+}
+
+li a {
+    color: purple;
+}
+
