@@ -36,7 +36,8 @@ img {
 h1 {
     width: 100%;
     font-size: 3.0rem;
-    font-family: 'Amaranth', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
     color: black;
     text-align: center;
     padding-top: 20px;
@@ -49,7 +50,7 @@ span {
     color: black;
     text-shadow: 3px 3px 5px rgb(232, 235, 68);
     font-size: 2.2rem;
-    font-family: 'Amaranth', sans-serif;
+    font-family: 'Nunito', sans-serif;
     margin-bottom: 20px;
 }
 
